@@ -2,6 +2,9 @@ import sys
 import argparse
 from yolo import YOLO, detect_video
 from PIL import Image
+import matplotlib.pyplot as plt
+import numpy as np
+from IPython.display import display # to display images
 
 def detect_img(yolo):
     while True:
@@ -13,6 +16,12 @@ def detect_img(yolo):
             continue
         else:
             r_image = yolo.detect_image(image)
+            #r_image.convert("RGB")
+            r_image.save('result.png')
+            im_array = np.asarray(r_image)
+            plt.imshow(im_array)
+            plt.show()
+            display(r_image)
             r_image.show()
     yolo.close_session()
 
