@@ -1,0 +1,57 @@
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_791.jpg 17,11,353,483,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_2422.jpg 72,45,466,298,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_5355.jpg 50,160,216,305,2 307,158,465,315,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_115.jpg 75,88,262,463,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_7172.jpg 0,18,479,342,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_18640.jpg 152,43,499,334,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_3451.jpg 35,35,436,498,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_4351.jpg 137,16,377,333,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_1150.jpg 47,91,349,442,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_1288.jpg 124,15,383,333,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_2458.jpg 5,25,481,356,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_1932.jpg 45,78,298,476,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_3620.jpg 158,206,346,452,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_2921.jpg 30,15,202,224,0
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_5927.jpg 52,27,355,356,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_3108.jpg 216,212,346,353,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_2889.jpg 48,70,227,276,1 181,90,431,345,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_2135.jpg 205,137,302,276,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_20102.jpg 91,12,428,295,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_1406.jpg 58,96,328,497,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_2020.jpg 279,65,466,271,1 23,84,184,275,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_3593.jpg 61,21,455,457,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_4230.jpg 31,98,282,300,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_1592.jpg 162,41,374,289,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_730.jpg 177,134,347,367,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_4814.jpg 25,19,221,238,0
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_4195.jpg 0,56,284,421,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_16565.jpg 35,215,171,448,1 156,161,283,421,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_17116.jpg 183,88,335,239,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_3875.jpg 125,14,340,332,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_6931.jpg 96,87,380,332,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_4262.jpg 149,57,377,332,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_4207.jpg 19,16,464,317,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_7253.jpg 175,113,448,292,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_6746.jpg 2,48,418,293,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_25908.jpg 209,0,399,298,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_3033.jpg 164,137,456,335,0
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_1475.jpg 96,203,397,456,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_6278.jpg 111,59,498,329,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_13907.jpg 214,144,343,263,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_6348.jpg 81,28,399,299,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_4464.jpg 459,133,499,293,2 104,138,279,295,2 280,129,444,285,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_3110.jpg 98,32,285,258,0
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_1270.jpg 200,102,314,328,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_251.jpg 1,16,335,374,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_4192.jpg 179,2,386,311,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_8682.jpg 174,222,364,466,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_2693.jpg 0,127,331,498,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_4016.jpg 2,8,629,478,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_2573.jpg 34,37,487,358,1
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_266.jpg 21,218,287,466,2 302,198,367,413,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_8290.jpg 6,192,144,328,2 331,199,467,341,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_1247.jpg 96,187,322,462,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_4875.jpg 17,3,494,457,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_5093.jpg 70,91,230,360,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085936_296.jpg 167,156,407,366,1
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_2981.jpg 399,314,562,525,0
