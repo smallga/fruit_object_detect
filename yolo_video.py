@@ -2,7 +2,7 @@ import sys
 import argparse
 from yolo import YOLO, detect_video
 from PIL import Image
-import matplotlib.pyplot as plt
+from matplotlib.pyplot import imshow,figure
 import numpy as np
 from IPython.display import display # to display images
 
@@ -10,7 +10,7 @@ def detect_img(yolo):
     while True:
         img = input('Input image filename:')
         try:
-            image = Image.open(img)
+            image = Image.open(img,'r')
         except:
             print('Open Error! Try again!')
             continue
@@ -18,10 +18,10 @@ def detect_img(yolo):
             r_image = yolo.detect_image(image)
             #r_image.convert("RGB")
             r_image.save('result.png')
-            im_array = np.asarray(r_image)
-            plt.imshow(im_array)
-            plt.show()
-            display(r_image)
+            show_img = Image.open('/content/fruit_object_detect/result.png','r')
+            figure(figsize = (20,20))
+            imshow(np.asarray(show_img))
+            # display(Image('/content/fruit_object_detect/result.png'))
             r_image.show()
     yolo.close_session()
 

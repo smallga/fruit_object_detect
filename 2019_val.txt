@@ -1,0 +1,7 @@
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_5244.jpg 41,103,271,332,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_3075.jpg 220,66,471,474,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_2726.jpg 0,65,264,341,2
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_4497.jpg 34,123,211,279,2 207,136,359,278,2 371,129,476,286,2
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_13383.jpg 156,242,334,498,0
+/content/fruit_object_detect/DOG2019/DogImage/n02085620_8558.jpg 49,35,171,154,0
+/content/fruit_object_detect/DOG2019/DogImage/n02088094_8063.jpg 332,69,849,771,2
