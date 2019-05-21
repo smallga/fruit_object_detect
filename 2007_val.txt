@@ -1,0 +1,3 @@
+/content/fruit_object_detect/VOCdevkit/VOC2007/JPEGImages/orange_46.jpg 62,77,245,267,2
+/content/fruit_object_detect/VOCdevkit/VOC2007/JPEGImages/banana_68.jpg 470,161,992,495,1 628,1,1169,298,1 1,3,412,344,1 1,249,260,669,1 229,449,710,674,1 822,480,1198,674,1
+/content/fruit_object_detect/VOCdevkit/VOC2007/JPEGImages/orange_82.jpg 61,130,415,473,2
